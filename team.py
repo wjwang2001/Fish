@@ -17,8 +17,6 @@ class Team:
         print(self.players[-1].name, "have", self.points, "points.")
 
     def declare(self, current_player, game, suit_declared):
-        #print("Declarable", current_player.declare_queue, end=': ')
-        #suit_declared = current_player.declare_queue.pop()
         print(current_player.name, "declares", suit_declared)
         # declare (need to check for validity first)
         for player in self.players:

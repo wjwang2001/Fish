@@ -78,32 +78,30 @@ class Player:
     """
 
     def get_next(self, game):  # random
-        # TODO: change declaring to be first for AI get_next, need to change declare in team
         # TODO: implement declaring on other's (notably teammates') turns
         declarable = self.information.check_for_declare(game, self)
         print(self.name, "can declare", declarable)
         while len(declarable) > 0:
             suit_to_declare = declarable.pop()
             self.team.declare(self, game, suit_to_declare)
-
         # we do this first to skip game.information.check if possible
         while len(self.ask_queue) > 0:
             next_ask = self.ask_queue.pop()
             return next_ask[0], next_ask[1]
         if self.information.check_for_clear(game, self):
-            # then we added stuff to the queue
+            # we added asks to the queue
             next_ask = self.ask_queue.pop()
             return next_ask[0], next_ask[1]
-        # TODO: first check if any cards/valid asks
-        if self.no_asks_left(game.deck.cards_per_suit):
-            # card = None
-            # # TODO: generate a valid person to switch to (currently random) - make this a method
+        # if you run out of cards, pick a teammate to start
+        if len(self.hand) == 0:
+            # TODO: generate a valid person to switch to (currently random) - probably make this a method
             for player in self.team.players:
                 if len(player.hand) != 0:
                     print(self.name, "passes power to", player.name)
                     return None, player
             return None, None
         else:
+            # TODO: make this cleaner - maybe make a separate method
             # generate a player from the opposing team
             opponent = game.players[random.randint(0, len(game.players) - 1)]
             while self.team == opponent.team or len(opponent.hand) == 0:  # can also enforce len(opponent.hand) != 0

@@ -43,6 +43,7 @@ class Information:
             # distribution: indicate neither player has the card
             self.card_distribution[card.suit_index, card.value_index, current_player.index] = -1
             self.card_distribution[card.suit_index, card.value_index, opponent.index] = -1
+        # TODO: make this a separate method in information
         # additional extrapolation (over the suit)
         cards_per_suit = self.card_distribution.shape[1]
         no_of_players = self.card_distribution.shape[2]

@@ -45,12 +45,13 @@ class Fish:
         while self.total_turns < 1000:
             # get next card and opponent
             card, next_player = self.current_player.get_next(self)
-            # if no one one the team can ask anyone TODO: eventually this should be if no one the team has a card
-            if next_player is None:
-                break
-            # the player is out of cards: switch to a teammate
-            elif card is None:
-                self.current_player = next_player
+            # the player is out of cards: switch to a teammate if possible
+            if card is None:
+                # TODO: update information that someone is out of cards
+                if next_player is None:
+                    break
+                else:
+                    self.current_player = next_player
             # the player can ask for a card:
             else:
                 print("Turn", self.total_turns + 1, ":", self.current_player.name, "asks for the ", end='')
