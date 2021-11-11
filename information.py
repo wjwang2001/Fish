@@ -43,32 +43,45 @@ class Information:
             # distribution: indicate neither player has the card
             self.card_distribution[card.suit_index, card.value_index, current_player.index] = -1
             self.card_distribution[card.suit_index, card.value_index, opponent.index] = -1
-        # TODO: make this a separate method in information
+        self.extrapolate(card.suit_index)
+
+    """
+        Updates information after someone out of cards
+        need to check that this is actually having an effect on information
+    """
+    def update_out_of_cards(self, current_player, game):
+        for suit in game.deck.suits:
+            # TODO: Find a better way to represent suit index instead of hard-coding it
+            suit_index = suit - 1
+            self.card_distribution[suit_index, :, current_player.index] = -1
+            self.extrapolate(suit_index)
+
+    def extrapolate(self, suit_index):
         # additional extrapolation (over the suit)
         cards_per_suit = self.card_distribution.shape[1]
         no_of_players = self.card_distribution.shape[2]
         for value_index in range(cards_per_suit):
             # One person is unknown, everybody else doesn't have card
-            if np.sum(self.card_distribution[card.suit_index, value_index, :]) == 1 - no_of_players:
-                owner_index = np.where(self.card_distribution[card.suit_index][value_index, :] == 0)[0][0]
+            if np.sum(self.card_distribution[suit_index, value_index, :]) == 1 - no_of_players:
+                owner_index = np.where(self.card_distribution[suit_index][value_index, :] == 0)[0][0]
                 # before changing, check if player status is 1 and if it is 1, change then to 0 then make the deduction
-                if self.player_status[card.suit_index, owner_index] == 1:
-                    self.player_status[card.suit_index, owner_index] = 0
-                self.card_distribution[card.suit_index, value_index, owner_index] = 1
-                self.card_status[card.suit_index, value_index] = 1
+                if self.player_status[suit_index, owner_index] == 1:
+                    self.player_status[suit_index, owner_index] = 0
+                self.card_distribution[suit_index, value_index, owner_index] = 1
+                self.card_status[suit_index, value_index] = 1
         for player_index in range(no_of_players):
             # Player has an unknown card, only one option for unknown
-            if self.player_status[card.suit_index, player_index] == 1 and player_index != self.player_index:
-                unknown_index_array = np.where(self.card_distribution[card.suit_index][:, player_index] == 0)[0]
+            if self.player_status[suit_index, player_index] == 1 and player_index != self.player_index:
+                unknown_index_array = np.where(self.card_distribution[suit_index][:, player_index] == 0)[0]
                 if len(unknown_index_array) == 1:
-                    #Suits = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-                    #Values = ['\u2654', '\u2655', '\u2656', '\u2657', '\u2658', '\u2659']
-                    #print(self.player_index, "can extrapolate", player_index, "has", Values[unknown_index_array[0]], "of", Suits[card.suit_index])
-                    #value_index = unknown_index_array[0]
-                    self.card_status[card.suit_index, unknown_index_array[0]] = 1
-                    self.card_distribution[card.suit_index, unknown_index_array[0], :] = -1
-                    self.card_distribution[card.suit_index, unknown_index_array[0], player_index] = 1
-                    self.player_status[card.suit_index, player_index] = 0
+                    # Suits = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+                    # Values = ['\u2654', '\u2655', '\u2656', '\u2657', '\u2658', '\u2659']
+                    # print(self.player_index, "can extrapolate", player_index, "has", Values[unknown_index_array[0]], "of", Suits[card.suit_index])
+                    # value_index = unknown_index_array[0]
+                    self.card_status[suit_index, unknown_index_array[0]] = 1
+                    self.card_distribution[suit_index, unknown_index_array[0], :] = -1
+                    self.card_distribution[suit_index, unknown_index_array[0], player_index] = 1
+                    self.player_status[suit_index, player_index] = 0
 
     """
     Checks if a player can clear some suit (has full knowledge over some suit: always safe to ask)

@@ -48,6 +48,10 @@ class Fish:
             # the player is out of cards: switch to a teammate if possible
             if card is None:
                 # TODO: update information that someone is out of cards
+                for player in self.players:
+                    # make sure to only do this for computerized players
+                    if player.name != self.current_player.name:
+                        player.information.update_out_of_cards(self.current_player, self)
                 if next_player is None:
                     break
                 else:

@@ -58,6 +58,7 @@ class Player:
 
     """ 
     Returns a boolean indicating whether a player cannot legally ask for any card
+    Note: this method is currently not being used, but might be useful for implementing human players
     """
     def no_asks_left(self, cards_per_suit):
         # cannot ask if hand has no cards
