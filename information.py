@@ -95,8 +95,34 @@ class Information:
                         print(current_player.name, "knows", owner.name, "has the ", end='')
                         card.display()
                         print("!")
-                # add the suit to declare_queue if not already added
-                if suit not in current_player.declare_queue:
-                    current_player.declare_queue.append(suit)
-                    print(current_player.name, "declare queue changed to", current_player.declare_queue)
         return added_to_queue
+
+    """
+        Checks if a player can declare some suit 
+        Returns list of suits that can be declared
+    """
+
+    def check_for_declare(self, game, current_player):
+        declarable = []
+        # iterate over all remaining suits
+        for suit in game.deck.suits:
+            can_declare_suit = False
+            # TODO: Find a better way to represent suit index instead of hard-coding it
+            suit_index = suit - 1
+            # check if the player has the suit & full knowledge of the suit
+            if current_player.has_suit(suit) and np.sum(self.card_status[suit_index]) == game.deck.cards_per_suit:
+                can_declare_suit = True
+                # for each card in the suit, add to ask_queue if an opponent is holding the card
+                for value_index in range(game.deck.cards_per_suit):
+                    owner_index = np.where(self.card_distribution[suit_index][value_index, :] == 1)[0]
+                    # print("owner_index", owner_index, "owns", game.deck.values[value_index], "of", suit)
+                    if len(owner_index) == 0:
+                        print(current_player.name, self.card_distribution[suit_index], self.card_status[suit_index], "time to crash :(")
+                    owner = game.players[owner_index[0]]
+                    # cannot declare the suit if someone on opposite team has card
+                    if current_player.team != owner.team:
+                        can_declare_suit = False
+            # add the suit to declareable
+            if can_declare_suit:
+                declarable.append(suit)
+        return declarable

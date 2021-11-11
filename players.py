@@ -78,6 +78,14 @@ class Player:
     """
 
     def get_next(self, game):  # random
+        # TODO: change declaring to be first for AI get_next, need to change declare in team
+        # TODO: implement declaring on other's (notably teammates') turns
+        declarable = self.information.check_for_declare(game, self)
+        print(self.name, "can declare", declarable)
+        while len(declarable) > 0:
+            suit_to_declare = declarable.pop()
+            self.team.declare(self, game, suit_to_declare)
+
         # we do this first to skip game.information.check if possible
         while len(self.ask_queue) > 0:
             next_ask = self.ask_queue.pop()
@@ -86,9 +94,6 @@ class Player:
             # then we added stuff to the queue
             next_ask = self.ask_queue.pop()
             return next_ask[0], next_ask[1]
-        # TODO: implement declaring on other's (notably teammates') turns
-        while len(self.declare_queue) > 0:
-            self.team.declare(self, game)
         # TODO: first check if any cards/valid asks
         if self.no_asks_left(game.deck.cards_per_suit):
             # card = None
