@@ -1,566 +1,427 @@
 C:\Users\willi\anaconda3\python.exe C:/Users/willi/PycharmProjects/Fish/main.py
 0: Edgar,William have 0 points.
 1: Alina,Lucas have 0 points.
-Edgar has ♖ of 1, ♔ of 2, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♔ of 3, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♖ of 9, ♙ of 9
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♘ of 6, ♘ of 7, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 2, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♘ of 9
-
-Lucas can declare []
-Turn 1 : Lucas asks for the ♘ of 7 from William. miss!
-William can declare []
-Turn 2 : William asks for the ♘ of 7 from Alina. hit!
-Edgar has ♖ of 1, ♔ of 2, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♔ of 3, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7, ♖ of 9, ♙ of 9
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♘ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 2, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♘ of 9
-
-William can declare []
-Turn 3 : William asks for the ♙ of 6 from Lucas. miss!
-Lucas can declare []
-Turn 4 : Lucas asks for the ♔ of 9 from Edgar. miss!
-Edgar can declare []
-Turn 5 : Edgar asks for the ♖ of 2 from Alina. miss!
-Alina can declare []
-Turn 6 : Alina asks for the ♘ of 8 from William. miss!
-William can declare []
-Turn 7 : William asks for the ♗ of 5 from Alina. miss!
-Alina can declare []
-Turn 8 : Alina asks for the ♕ of 9 from William. miss!
-William can declare []
-Turn 9 : William asks for the ♘ of 9 from Alina. miss!
-Alina can declare []
-Turn 10 : Alina asks for the ♕ of 7 from William. miss!
-William can declare []
-Turn 11 : William asks for the ♔ of 4 from Lucas. miss!
-Lucas can declare []
-Turn 12 : Lucas asks for the ♖ of 3 from Edgar. miss!
-Edgar can declare []
-Turn 13 : Edgar asks for the ♗ of 2 from Alina. miss!
-Alina can declare []
-Turn 14 : Alina asks for the ♘ of 4 from Edgar. miss!
-Edgar can declare []
-Turn 15 : Edgar asks for the ♙ of 1 from Lucas. miss!
-Lucas can declare []
-Turn 16 : Lucas asks for the ♘ of 6 from Edgar. miss!
-Edgar can declare []
-Turn 17 : Edgar asks for the ♖ of 6 from Lucas. miss!
-Lucas can declare []
-Turn 18 : Lucas asks for the ♔ of 3 from William. hit!
-Edgar has ♖ of 1, ♔ of 2, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7, ♖ of 9, ♙ of 9
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♘ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♘ of 9
-
-Lucas can declare []
-Turn 19 : Lucas asks for the ♙ of 9 from Edgar. miss!
-Edgar can declare []
-Turn 20 : Edgar asks for the ♘ of 6 from Alina. hit!
-Edgar has ♖ of 1, ♔ of 2, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7, ♖ of 9, ♙ of 9
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♘ of 9
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 5, ♗ of 6, ♙ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♗ of 4, ♙ of 4, ♔ of 5, ♕ of 5, ♖ of 5, ♙ of 5, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♘ of 5, ♔ of 6, ♕ of 6, ♖ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♖ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
 
 Edgar can declare []
-Turn 21 : Edgar asks for the ♕ of 8 from Alina. miss!
+Turn 1 : Edgar asks for the ♙ of 7 from Alina. miss!
 Alina can declare []
-Turn 22 : Alina asks for the ♕ of 3 from William. miss!
+Turn 2 : Alina asks for the ♗ of 5 from Edgar. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♙ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♗ of 4, ♙ of 4, ♔ of 5, ♕ of 5, ♖ of 5, ♙ of 5, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♗ of 5, ♘ of 5, ♔ of 6, ♕ of 6, ♖ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♖ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+
+Alina can declare []
+Turn 3 : Alina asks for the ♙ of 6 from Edgar. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♗ of 4, ♙ of 4, ♔ of 5, ♕ of 5, ♖ of 5, ♙ of 5, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♗ of 5, ♘ of 5, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♖ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+
+Alina can declare []
+Turn 4 : Alina asks for the ♗ of 9 from William. miss!
 William can declare []
-Turn 23 : William asks for the ♔ of 5 from Alina. miss!
-Alina can declare []
-Turn 24 : Alina asks for the ♔ of 1 from Edgar. miss!
+William knows Alina has the ♗ of 5!
+William knows Alina has the ♘ of 5!
+Turn 5 : William asks for the ♘ of 5 from Alina. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♗ of 4, ♙ of 4, ♔ of 5, ♕ of 5, ♖ of 5, ♘ of 5, ♙ of 5, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♗ of 5, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♖ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+
+William can declare []
+Turn 6 : William asks for the ♗ of 5 from Alina. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♗ of 4, ♙ of 4, ♔ of 5, ♕ of 5, ♖ of 5, ♗ of 5, ♘ of 5, ♙ of 5, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♖ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+
+William can declare [5]
+William declares 5
+♔ of 5 removed from William
+♕ of 5 removed from William
+♖ of 5 removed from William
+♗ of 5 removed from William
+♘ of 5 removed from William
+♙ of 5 removed from William
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♖ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+suits left [1, 2, 3, 4, 6, 7, 8, 9]
+Turn 7 : William asks for the ♗ of 8 from Lucas. miss!
+Lucas can declare []
+Turn 8 : Lucas asks for the ♔ of 3 from William. miss!
+William can declare []
+Turn 9 : William asks for the ♖ of 4 from Lucas. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♕ of 4, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+
+William can declare []
+Turn 10 : William asks for the ♕ of 4 from Alina. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
+
+William can declare []
+Turn 11 : William asks for the ♖ of 7 from Lucas. miss!
+Lucas can declare []
+Turn 12 : Lucas asks for the ♕ of 9 from Edgar. miss!
 Edgar can declare []
-Turn 25 : Edgar asks for the ♗ of 2 from Lucas. miss!
-Lucas can declare []
-Turn 26 : Lucas asks for the ♔ of 2 from Edgar. hit!
-Edgar has ♖ of 1, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7, ♖ of 9, ♙ of 9
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 2, ♖ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♘ of 9
-
-Lucas can declare []
-Turn 27 : Lucas asks for the ♔ of 8 from William. miss!
-William can declare []
-Turn 28 : William asks for the ♕ of 7 from Lucas. miss!
-Lucas can declare []
-Turn 29 : Lucas asks for the ♖ of 9 from William. hit!
-Edgar has ♖ of 1, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7, ♙ of 9
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 2, ♖ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9
-
-Lucas can declare []
-Turn 30 : Lucas asks for the ♙ of 9 from William. hit!
-Edgar has ♖ of 1, ♕ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 2, ♖ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Lucas can declare []
-Turn 31 : Lucas asks for the ♕ of 2 from Edgar. hit!
-Edgar has ♖ of 1, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 2, ♕ of 2, ♖ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Lucas can declare []
-Turn 32 : Lucas asks for the ♙ of 7 from Edgar. miss!
-Edgar can declare []
-Edgar knows Lucas has the ♔ of 2!
-Edgar knows Lucas has the ♕ of 2!
-Edgar knows Lucas has the ♖ of 2!
-Turn 33 : Edgar asks for the ♖ of 2 from Lucas. hit!
-Edgar has ♖ of 1, ♖ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 2, ♕ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Edgar can declare []
-Turn 34 : Edgar asks for the ♕ of 2 from Lucas. hit!
-Edgar has ♖ of 1, ♕ of 2, ♖ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 2, ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Edgar can declare []
-Turn 35 : Edgar asks for the ♔ of 2 from Lucas. hit!
-Edgar has ♖ of 1, ♔ of 2, ♕ of 2, ♖ of 2, ♘ of 2, ♙ of 2, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♗ of 2, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Edgar can declare [2]
-Edgar declares 2
-♔ of 2 removed from Edgar
-♕ of 2 removed from Edgar
-♖ of 2 removed from Edgar
-♘ of 2 removed from Edgar
-♙ of 2 removed from Edgar
-♗ of 2 removed from William
-Edgar has ♖ of 1, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♔ of 4, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-suits left [1, 3, 4, 5, 6, 7, 8, 9]
-Turn 36 : Edgar asks for the ♖ of 7 from Alina. miss!
-Alina can declare []
-Turn 37 : Alina asks for the ♔ of 7 from William. miss!
-William can declare []
-Turn 38 : William asks for the ♔ of 4 from Alina. hit!
-Edgar has ♖ of 1, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♖ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 39 : William asks for the ♖ of 7 from Lucas. hit!
-Edgar has ♖ of 1, ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 40 : William asks for the ♗ of 4 from Alina. miss!
-Alina can declare []
-Turn 41 : Alina asks for the ♖ of 1 from Edgar. hit!
-Edgar has ♘ of 3, ♔ of 5, ♗ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 42 : Alina asks for the ♘ of 3 from William. miss!
-William can declare []
-Turn 43 : William asks for the ♖ of 4 from Alina. miss!
-Alina can declare []
-Turn 44 : Alina asks for the ♗ of 5 from Edgar. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♕ of 8, ♖ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 45 : Alina asks for the ♘ of 9 from Edgar. miss!
-Edgar can declare []
-Turn 46 : Edgar asks for the ♖ of 8 from Lucas. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♕ of 7, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♔ of 7, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
+Turn 13 : Edgar asks for the ♙ of 3 from Lucas. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7, ♘ of 9
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
 
 Edgar can declare []
-Turn 47 : Edgar asks for the ♔ of 7 from Lucas. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♔ of 7, ♕ of 7, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7, ♗ of 7, ♘ of 7
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
+Turn 14 : Edgar asks for the ♗ of 1 from Alina. miss!
+Alina can declare []
+Turn 15 : Alina asks for the ♘ of 3 from William. miss!
+William can declare []
+Turn 16 : William asks for the ♘ of 9 from Lucas. miss!
+Lucas can declare []
+Turn 17 : Lucas asks for the ♔ of 6 from Edgar. miss!
 Edgar can declare []
-Turn 48 : Edgar asks for the ♖ of 6 from Alina. miss!
+Turn 18 : Edgar asks for the ♖ of 3 from Alina. miss!
 Alina can declare []
-Alina knows Edgar has the ♔ of 7!
-Alina knows Edgar has the ♕ of 7!
-Alina knows William has the ♖ of 7!
-Alina knows William has the ♗ of 7!
-Alina knows William has the ♘ of 7!
-Turn 49 : Alina asks for the ♘ of 7 from William. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♔ of 7, ♕ of 7, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7, ♗ of 7
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♘ of 7, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
+Alina knows William has the ♕ of 9!
+Alina knows Edgar has the ♘ of 9!
+Turn 19 : Alina asks for the ♘ of 9 from Edgar. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8, ♕ of 9
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♖ of 9, ♘ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
 
 Alina can declare []
-Turn 50 : Alina asks for the ♗ of 7 from William. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♔ of 7, ♕ of 7, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6, ♖ of 7
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♗ of 7, ♘ of 7, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
+Turn 20 : Alina asks for the ♕ of 9 from William. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8, ♔ of 9, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8, ♗ of 9
 
-Alina can declare []
-Turn 51 : Alina asks for the ♖ of 7 from William. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♔ of 7, ♕ of 7, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♖ of 7, ♗ of 7, ♘ of 7, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 52 : Alina asks for the ♕ of 7 from Edgar. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♔ of 7, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♕ of 7, ♖ of 7, ♗ of 7, ♘ of 7, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 53 : Alina asks for the ♔ of 7 from Edgar. hit!
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 7, ♕ of 7, ♖ of 7, ♗ of 7, ♘ of 7, ♙ of 7, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare [7]
-Alina declares 7
-♔ of 7 removed from Alina
-♕ of 7 removed from Alina
-♖ of 7 removed from Alina
-♗ of 7 removed from Alina
-♘ of 7 removed from Alina
-♙ of 7 removed from Alina
-Edgar has ♘ of 3, ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-suits left [1, 3, 4, 5, 6, 8, 9]
-Turn 54 : Alina asks for the ♘ of 3 from Edgar. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♘ of 3, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♘ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 55 : Alina asks for the ♕ of 6 from William. miss!
-William can declare []
-Turn 56 : William asks for the ♘ of 4 from Lucas. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♘ of 3, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 57 : William asks for the ♘ of 3 from Alina. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♘ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♙ of 3, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 58 : William asks for the ♙ of 3 from Alina. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 1, ♖ of 1, ♘ of 1, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 59 : William asks for the ♕ of 1 from Alina. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♕ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♖ of 1, ♘ of 1, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 60 : William asks for the ♗ of 3 from Lucas. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♕ of 1, ♗ of 1, ♙ of 1, ♖ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♖ of 1, ♘ of 1, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 61 : William asks for the ♘ of 1 from Alina. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♕ of 1, ♗ of 1, ♘ of 1, ♙ of 1, ♖ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♖ of 1, ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-William knows Alina has the ♖ of 1!
-Turn 62 : William asks for the ♖ of 1 from Alina. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♙ of 1, ♖ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare [1]
-William declares 1
-♔ of 1 removed from William
-♕ of 1 removed from William
-♖ of 1 removed from William
-♗ of 1 removed from William
-♘ of 1 removed from William
-♙ of 1 removed from William
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♖ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-suits left [3, 4, 5, 6, 8, 9]
-Turn 63 : William asks for the ♘ of 5 from Lucas. miss!
-Lucas can declare []
-Lucas knows William has the ♖ of 3!
-Lucas knows William has the ♗ of 3!
-Lucas knows William has the ♘ of 3!
-Lucas knows William has the ♙ of 3!
-Turn 64 : Lucas asks for the ♙ of 3 from William. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♖ of 3, ♗ of 3, ♘ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♙ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Lucas can declare []
-Turn 65 : Lucas asks for the ♘ of 3 from William. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♖ of 3, ♗ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♘ of 3, ♙ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Lucas can declare []
-Turn 66 : Lucas asks for the ♗ of 3 from William. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♖ of 3, ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Lucas can declare []
-Turn 67 : Lucas asks for the ♖ of 3 from William. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♔ of 3, ♕ of 3, ♖ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Lucas can declare [3]
-Lucas declares 3
-♔ of 3 removed from Lucas
-♕ of 3 removed from Lucas
-♖ of 3 removed from Lucas
-♗ of 3 removed from Lucas
-♘ of 3 removed from Lucas
-♙ of 3 removed from Lucas
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♗ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-suits left [4, 5, 6, 8, 9]
-Turn 68 : Lucas asks for the ♔ of 6 from William. miss!
-William can declare []
-Turn 69 : William asks for the ♗ of 4 from Lucas. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 70 : William asks for the ♙ of 5 from Alina. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♙ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-William can declare []
-Turn 71 : William asks for the ♔ of 5 from Lucas. miss!
-Lucas can declare []
-Turn 72 : Lucas asks for the ♙ of 4 from Edgar. miss!
-Edgar can declare []
-Turn 73 : Edgar asks for the ♖ of 5 from Alina. miss!
-Alina can declare []
-Alina knows Edgar has the ♔ of 5!
-Alina knows William has the ♖ of 5!
-Alina knows Edgar has the ♘ of 5!
-Alina knows William has the ♙ of 5!
-Turn 74 : Alina asks for the ♙ of 5 from William. hit!
-Edgar has ♔ of 5, ♘ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 75 : Alina asks for the ♘ of 5 from Edgar. hit!
-Edgar has ♔ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 5, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♗ of 5, ♘ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 76 : Alina asks for the ♖ of 5 from William. hit!
-Edgar has ♔ of 5, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 6, ♗ of 6
-Alina has ♕ of 5, ♖ of 5, ♗ of 5, ♘ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 77 : Alina asks for the ♔ of 5 from Edgar. hit!
-Edgar has ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 6, ♗ of 6
-Alina has ♔ of 5, ♕ of 5, ♖ of 5, ♗ of 5, ♘ of 5, ♙ of 5, ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare [5]
-Alina declares 5
-♔ of 5 removed from Alina
-♕ of 5 removed from Alina
-♖ of 5 removed from Alina
-♗ of 5 removed from Alina
-♘ of 5 removed from Alina
-♙ of 5 removed from Alina
-Edgar has ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♖ of 6, ♗ of 6
-Alina has ♔ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-suits left [4, 6, 8, 9]
-Turn 78 : Alina asks for the ♖ of 6 from William. hit!
-Edgar has ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♗ of 6
-Alina has ♔ of 6, ♖ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Alina can declare []
-Turn 79 : Alina asks for the ♕ of 9 from Edgar. miss!
-Edgar can declare []
-Turn 80 : Edgar asks for the ♔ of 6 from Alina. hit!
-Edgar has ♔ of 6, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♗ of 6
-Alina has ♖ of 6, ♔ of 8, ♔ of 9, ♗ of 9
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8, ♕ of 9, ♖ of 9, ♘ of 9, ♙ of 9
-
-Edgar can declare []
-Turn 81 : Edgar asks for the ♗ of 8 from Alina. miss!
 Alina can declare [9]
 Alina declares 9
 ♔ of 9 removed from Alina
-♗ of 9 removed from Alina
-♕ of 9 removed from Lucas
-♖ of 9 removed from Lucas
-♘ of 9 removed from Lucas
-♙ of 9 removed from Lucas
-Edgar has ♔ of 6, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♗ of 6
-Alina has ♖ of 6, ♔ of 8
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8
-suits left [4, 6, 8]
-Turn 82 : Alina asks for the ♕ of 6 from Edgar. miss!
+♕ of 9 removed from Alina
+♖ of 9 removed from Alina
+♘ of 9 removed from Alina
+♙ of 9 removed from Alina
+♗ of 9 removed from Lucas
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♗ of 6, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8
+suits left [1, 2, 3, 4, 6, 7, 8]
+Turn 21 : Alina asks for the ♘ of 6 from Edgar. miss!
 Edgar can declare []
-Turn 83 : Edgar asks for the ♖ of 6 from Alina. hit!
-Edgar has ♔ of 6, ♖ of 6, ♘ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♗ of 6
-Alina has ♔ of 8
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8
+Turn 22 : Edgar asks for the ♖ of 6 from Alina. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♖ of 6, ♗ of 6, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8
 
 Edgar can declare []
-Turn 84 : Edgar asks for the ♗ of 6 from Lucas. miss!
+Turn 23 : Edgar asks for the ♔ of 7 from Alina. miss!
+Alina can declare []
+Alina knows Edgar has the ♖ of 6!
+Alina knows Edgar has the ♗ of 6!
+Turn 24 : Alina asks for the ♗ of 6 from Edgar. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♖ of 6, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♗ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8
+
+Alina can declare []
+Turn 25 : Alina asks for the ♖ of 6 from Edgar. hit!
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♔ of 6, ♕ of 6, ♖ of 6, ♗ of 6, ♙ of 6, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♘ of 6, ♙ of 7, ♔ of 8
+
+Alina can declare [6]
+Alina declares 6
+♔ of 6 removed from Alina
+♕ of 6 removed from Alina
+♖ of 6 removed from Alina
+♗ of 6 removed from Alina
+♙ of 6 removed from Alina
+♘ of 6 removed from Lucas
+Edgar has ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♔ of 1, ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♙ of 7, ♔ of 8
+suits left [1, 2, 3, 4, 7, 8]
+Turn 26 : Alina asks for the ♕ of 8 from Edgar. miss!
+Edgar can declare []
+Turn 27 : Edgar asks for the ♔ of 1 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♘ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♙ of 7, ♔ of 8
+
+Edgar can declare []
+Turn 28 : Edgar asks for the ♙ of 2 from Lucas. miss!
 Lucas can declare []
-Turn 85 : Lucas asks for the ♘ of 6 from Edgar. hit!
-Edgar has ♔ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♗ of 6
-Alina has ♔ of 8
-Lucas has ♖ of 4, ♕ of 6, ♘ of 6, ♕ of 8, ♗ of 8
+Turn 29 : Lucas asks for the ♖ of 8 from Edgar. miss!
+Edgar can declare []
+Turn 30 : Edgar asks for the ♘ of 2 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♖ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♙ of 7, ♔ of 8
+
+Edgar can declare []
+Turn 31 : Edgar asks for the ♘ of 7 from Lucas. miss!
+Lucas can declare []
+Turn 32 : Lucas asks for the ♖ of 7 from Edgar. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♕ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♖ of 7, ♙ of 7, ♔ of 8
 
 Lucas can declare []
-Turn 86 : Lucas asks for the ♙ of 8 from William. miss!
+Turn 33 : Lucas asks for the ♗ of 3 from Edgar. miss!
+Edgar can declare []
+Turn 34 : Edgar asks for the ♙ of 7 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♔ of 3, ♕ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♖ of 3, ♘ of 3, ♔ of 4, ♖ of 7, ♔ of 8
+
+Edgar can declare []
+Turn 35 : Edgar asks for the ♘ of 3 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♔ of 3, ♕ of 3, ♘ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♖ of 3, ♔ of 4, ♖ of 7, ♔ of 8
+
+Edgar can declare []
+Turn 36 : Edgar asks for the ♖ of 3 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♔ of 3, ♕ of 3, ♖ of 3, ♘ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♗ of 3, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♔ of 4, ♖ of 7, ♔ of 8
+
+Edgar can declare []
+Edgar knows Alina has the ♗ of 3!
+Turn 37 : Edgar asks for the ♗ of 3 from Alina. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♔ of 3, ♕ of 3, ♖ of 3, ♗ of 3, ♘ of 3, ♙ of 3, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♔ of 4, ♖ of 7, ♔ of 8
+
+Edgar can declare [3]
+Edgar declares 3
+♔ of 3 removed from Edgar
+♕ of 3 removed from Edgar
+♖ of 3 removed from Edgar
+♗ of 3 removed from Edgar
+♘ of 3 removed from Edgar
+♙ of 3 removed from Edgar
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♗ of 1, ♕ of 2, ♗ of 2, ♔ of 4, ♖ of 7, ♔ of 8
+suits left [1, 2, 4, 7, 8]
+Turn 38 : Edgar asks for the ♙ of 4 from Lucas. miss!
+Lucas can declare []
+Turn 39 : Lucas asks for the ♗ of 7 from Edgar. miss!
+Edgar can declare []
+Turn 40 : Edgar asks for the ♗ of 1 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 4, ♖ of 7, ♔ of 8
+
+Edgar can declare []
+Turn 41 : Edgar asks for the ♔ of 2 from Alina. miss!
+Alina can declare []
+Turn 42 : Alina asks for the ♔ of 8 from William. miss!
 William can declare []
-William knows Lucas has the ♖ of 4!
-William knows Lucas has the ♕ of 6!
-William knows Lucas has the ♘ of 6!
-Turn 87 : William asks for the ♘ of 6 from Lucas. hit!
-Edgar has ♔ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♗ of 6, ♘ of 6
-Alina has ♔ of 8
-Lucas has ♖ of 4, ♕ of 6, ♕ of 8, ♗ of 8
+William knows Lucas has the ♖ of 7!
+Turn 43 : William asks for the ♖ of 7 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4, ♕ of 7, ♙ of 7
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♔ of 7, ♖ of 7, ♗ of 7, ♘ of 7, ♕ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 4, ♔ of 8
+
+William can declare [7]
+William declares 7
+♕ of 7 removed from Edgar
+♙ of 7 removed from Edgar
+♔ of 7 removed from William
+♖ of 7 removed from William
+♗ of 7 removed from William
+♘ of 7 removed from William
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♕ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 4, ♔ of 8
+suits left [1, 2, 4, 8]
+Turn 44 : William asks for the ♙ of 8 from Alina. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♕ of 8, ♙ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 4, ♔ of 8
 
 William can declare []
-Turn 88 : William asks for the ♕ of 6 from Lucas. hit!
-Edgar has ♔ of 6, ♖ of 6, ♙ of 6, ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4, ♕ of 6, ♗ of 6, ♘ of 6
-Alina has ♔ of 8
-Lucas has ♖ of 4, ♕ of 8, ♗ of 8
+Turn 45 : William asks for the ♘ of 8 from Alina. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♕ of 8, ♘ of 8, ♙ of 8
+Alina has ♖ of 8, ♗ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 4, ♔ of 8
 
-William can declare [6]
-William declares 6
-♔ of 6 removed from Edgar
-♖ of 6 removed from Edgar
-♙ of 6 removed from Edgar
-♕ of 6 removed from William
-♗ of 6 removed from William
-♘ of 6 removed from William
-Edgar has ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♗ of 4, ♘ of 4, ♙ of 4
-Alina has ♔ of 8
-Lucas has ♖ of 4, ♕ of 8, ♗ of 8
-suits left [4, 8]
-Turn 89 : William asks for the ♖ of 4 from Lucas. hit!
-Edgar has ♖ of 8, ♘ of 8, ♙ of 8
-William has ♔ of 4, ♕ of 4, ♖ of 4, ♗ of 4, ♘ of 4, ♙ of 4
-Alina has ♔ of 8
-Lucas has ♕ of 8, ♗ of 8
+William can declare []
+Turn 46 : William asks for the ♔ of 4 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2, ♘ of 4
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♔ of 4, ♕ of 4, ♖ of 4, ♗ of 4, ♙ of 4, ♕ of 8, ♘ of 8, ♙ of 8
+Alina has ♖ of 8, ♗ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 8
 
 William can declare [4]
 William declares 4
+♘ of 4 removed from Edgar
 ♔ of 4 removed from William
 ♕ of 4 removed from William
 ♖ of 4 removed from William
 ♗ of 4 removed from William
-♘ of 4 removed from William
 ♙ of 4 removed from William
-Edgar has ♖ of 8, ♘ of 8, ♙ of 8
-William has
-Alina has ♔ of 8
-Lucas has ♕ of 8, ♗ of 8
-suits left [8]
-William passes power to Edgar
-Edgar can declare []
-Turn 90 : Edgar asks for the ♕ of 8 from Lucas. hit!
-Edgar has ♕ of 8, ♖ of 8, ♘ of 8, ♙ of 8
-William has
-Alina has ♔ of 8
-Lucas has ♗ of 8
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 8, ♘ of 8, ♙ of 8
+Alina has ♖ of 8, ♗ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 8
+suits left [1, 2, 8]
+Turn 47 : William asks for the ♖ of 8 from Alina. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♕ of 8, ♖ of 8, ♘ of 8, ♙ of 8
+Alina has ♗ of 8
+Lucas has ♕ of 2, ♗ of 2, ♔ of 8
 
-Edgar can declare []
-Turn 91 : Edgar asks for the ♔ of 8 from Alina. hit!
-Edgar has ♔ of 8, ♕ of 8, ♖ of 8, ♘ of 8, ♙ of 8
-William has
+William can declare []
+Turn 48 : William asks for the ♔ of 8 from Lucas. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♔ of 8, ♕ of 8, ♖ of 8, ♘ of 8, ♙ of 8
+Alina has ♗ of 8
+Lucas has ♕ of 2, ♗ of 2
+
+William can declare []
+Turn 49 : William asks for the ♕ of 2 from Alina. miss!
+Alina can declare []
+Alina knows William has the ♔ of 8!
+Alina knows William has the ♕ of 8!
+Alina knows William has the ♖ of 8!
+Alina knows William has the ♘ of 8!
+Alina knows William has the ♙ of 8!
+Turn 50 : Alina asks for the ♙ of 8 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♔ of 8, ♕ of 8, ♖ of 8, ♘ of 8
+Alina has ♗ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2
+
+Alina can declare []
+Turn 51 : Alina asks for the ♘ of 8 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♔ of 8, ♕ of 8, ♖ of 8
+Alina has ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2
+
+Alina can declare []
+Turn 52 : Alina asks for the ♖ of 8 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♔ of 8, ♕ of 8
+Alina has ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2
+
+Alina can declare []
+Turn 53 : Alina asks for the ♕ of 8 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2, ♔ of 8
+Alina has ♕ of 8, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2
+
+Alina can declare []
+Turn 54 : Alina asks for the ♔ of 8 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2
+Alina has ♔ of 8, ♕ of 8, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
+Lucas has ♕ of 2, ♗ of 2
+
+Alina can declare [8]
+Alina declares 8
+♔ of 8 removed from Alina
+♕ of 8 removed from Alina
+♖ of 8 removed from Alina
+♗ of 8 removed from Alina
+♘ of 8 removed from Alina
+♙ of 8 removed from Alina
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2, ♙ of 2
 Alina has
-Lucas has ♗ of 8
+Lucas has ♕ of 2, ♗ of 2
+suits left [1, 2]
+Alina passes power to Lucas
+Lucas can declare []
+Lucas knows William has the ♔ of 2!
+Lucas knows Edgar has the ♖ of 2!
+Lucas knows Edgar has the ♘ of 2!
+Lucas knows William has the ♙ of 2!
+Turn 55 : Lucas asks for the ♙ of 2 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2, ♘ of 2
+William has ♙ of 1, ♔ of 2
+Alina has
+Lucas has ♕ of 2, ♗ of 2, ♙ of 2
 
-Edgar can declare []
-Turn 92 : Edgar asks for the ♗ of 8 from Lucas. hit!
-Edgar has ♔ of 8, ♕ of 8, ♖ of 8, ♗ of 8, ♘ of 8, ♙ of 8
-William has
+Lucas can declare []
+Turn 56 : Lucas asks for the ♘ of 2 from Edgar. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1, ♖ of 2
+William has ♙ of 1, ♔ of 2
+Alina has
+Lucas has ♕ of 2, ♗ of 2, ♘ of 2, ♙ of 2
+
+Lucas can declare []
+Turn 57 : Lucas asks for the ♖ of 2 from Edgar. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1
+William has ♙ of 1, ♔ of 2
+Alina has
+Lucas has ♕ of 2, ♖ of 2, ♗ of 2, ♘ of 2, ♙ of 2
+
+Lucas can declare []
+Turn 58 : Lucas asks for the ♔ of 2 from William. hit!
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1
+William has ♙ of 1
+Alina has
+Lucas has ♔ of 2, ♕ of 2, ♖ of 2, ♗ of 2, ♘ of 2, ♙ of 2
+
+Lucas can declare [2]
+Lucas declares 2
+♔ of 2 removed from Lucas
+♕ of 2 removed from Lucas
+♖ of 2 removed from Lucas
+♗ of 2 removed from Lucas
+♘ of 2 removed from Lucas
+♙ of 2 removed from Lucas
+Edgar has ♔ of 1, ♕ of 1, ♖ of 1, ♗ of 1, ♘ of 1
+William has ♙ of 1
 Alina has
 Lucas has
-
-Edgar can declare [8]
-Edgar declares 8
-♔ of 8 removed from Edgar
-♕ of 8 removed from Edgar
-♖ of 8 removed from Edgar
-♗ of 8 removed from Edgar
-♘ of 8 removed from Edgar
-♙ of 8 removed from Edgar
+suits left [1]
+Lucas team ran out of cards, switch to William
+William can declare [1]
+William declares 1
+♔ of 1 removed from Edgar
+♕ of 1 removed from Edgar
+♖ of 1 removed from Edgar
+♗ of 1 removed from Edgar
+♘ of 1 removed from Edgar
+♙ of 1 removed from William
 Edgar has
 William has
 Alina has
@@ -573,5 +434,3 @@ Lucas has
 
 0: Edgar,William have 5 points.
 1: Alina,Lucas have 4 points.
-
-Process finished with exit code 0

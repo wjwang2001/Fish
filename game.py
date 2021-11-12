@@ -43,11 +43,17 @@ class Fish:
         self.display_all_hands()
         # TODO: implement the win condition (i.e. while no team has won 5+ half suits):
         while self.total_turns < 1000:
+            # TODO: update information that someone is out of cards (in all cases in which it can occur)
+            for player in self.players:
+                for player_out_of_card in self.players:
+                    # make sure to only do this for computerized players
+                    if len(player_out_of_card.hand) == 0 and player.name != player_out_of_card.name:
+                        player.information.update_out_of_cards(player_out_of_card, self)
             # get next card and opponent
             card, next_player = self.current_player.get_next(self)
             # the player is out of cards: switch to a teammate if possible
             if card is None:
-                # TODO: update information that someone is out of cards
+                # TODO: update information that someone is out of cards (in all cases in which it can occur)
                 for player in self.players:
                     # make sure to only do this for computerized players
                     if player.name != self.current_player.name:
@@ -77,6 +83,17 @@ class Fish:
                 self.total_turns += 1
 
         # TODO: let opposing team try to declare
+        for player in self.players:
+            for player_out_of_card in self.players:
+                # make sure to only do this for computerized players
+                if len(player_out_of_card.hand) == 0 and player.name != player_out_of_card.name:
+                    player.information.update_out_of_cards(player_out_of_card, self)
+        # get the other team random player
+        random_opponent = self.players[random.randint(0, len(self.players)-1)]
+        while self.current_player.team == random_opponent.team:
+            random_opponent = self.players[random.randint(0, len(self.players)-1)]
+        print(self.current_player.name, "team ran out of cards, switch to", random_opponent.name)
+        card, next_player = random_opponent.get_next(self)
 
         #print(self.information.info_public)
         #for player in self.players:
