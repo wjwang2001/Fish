@@ -3,6 +3,7 @@ from information import Information
 import random
 from team import Team
 
+
 class Fish:
     def __init__(self, players, teams=2):
         self.deck = Deck()

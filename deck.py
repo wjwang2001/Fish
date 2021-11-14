@@ -1,6 +1,7 @@
 from card import Card
 from random import shuffle
 
+
 class Deck:
     def __init__(self, num_of_decks=1):
         self.cards = []
