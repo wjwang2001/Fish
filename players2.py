@@ -18,7 +18,7 @@ class Player:
         self.player_to_information = {}
 
         self.num_players = GAME_INFO[-1]
-        #self.num_hs = GAME_INFO[0]
+        self.num_hs = GAME_INFO[0]
         ###
         # computer only values
         #self.information = None
@@ -142,23 +142,10 @@ class Player:
         return [tuple(card) for card in np.argwhere(self.player_to_information[self.name] == -1)]
 
 
-def deal_cards(num_hs, num_cards_per_hs, players):
-    # initialize the cards and shuffle them
-    cards = list(itertools.product([hs for hs in range(num_hs)], [card for card in range(num_cards_per_hs)]))
-    random.shuffle(cards)
-
-    # determine the number of players and the number of cards each player should receive, then distribute
-    num_players = len(players)
-    cards_per_player = num_hs * num_cards_per_hs / num_players
-    for i in range(num_players):
-        players[i].initialize_information(cards[int(i * cards_per_player): int((i + 1) * cards_per_player)])
-
-
 if __name__ == '__main__':
     random.seed(0)
     edgar, alina, lucas, william = Player("edgar"), Player("alina"), Player("lucas"), Player("william")
     gamers = [edgar, alina, lucas, william]
-    # deal_cards(NUM_HS, NUM_CARDS_PER_HS, gamers)
     game = Fish(gamers)
     print(william.player_to_information[william.name])
     print(edgar.player_to_information[william.name])
