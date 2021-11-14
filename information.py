@@ -20,41 +20,9 @@ class Information:
             else:
                 self.card_distribution[card.suit_index, card.value_index, player.index] = -1
 
-    """
-    Updates information after someone asks for a card
-    """
-    def update(self, current_player, card, opponent, got_card):
-        if got_card:
-            # if we didn't know the player had a card in the suit, update player status to 1 for that suit
-            if len(np.where(self.card_distribution[card.suit_index][:, current_player.index] == 1)[0]) == 0:
-                self.player_status[card.suit_index, current_player.index] = 1
-            # if we knew the player had a card in the suit, which card could have been the one taken,
-            # update player status to 0 for that suit
-            if self.card_status[card.suit_index, card.value_index] == 0:
-                self.player_status[card.suit_index, opponent.index] = 0
-            # distribution: indicate we know where the card is and who has it
-            self.card_status[card.suit_index, card.value_index] = 1
-            self.card_distribution[card.suit_index, card.value_index, :] = -1
-            self.card_distribution[card.suit_index, card.value_index, current_player.index] = 1
-        else:
-            # if we didn't know the player had a card in the suit, update player status to 1 for that suit
-            if len(np.where(self.card_distribution[card.suit_index][:, current_player.index] == 1)[0]) == 0:
-                self.player_status[card.suit_index, current_player.index] = 1
-            # distribution: indicate neither player has the card
-            self.card_distribution[card.suit_index, card.value_index, current_player.index] = -1
-            self.card_distribution[card.suit_index, card.value_index, opponent.index] = -1
-        self.extrapolate(card.suit_index)
 
-    """
-        Updates information after someone out of cards
-        need to check that this is actually having an effect on information
-    """
-    def update_out_of_cards(self, current_player, game):
-        for suit in game.deck.suits:
-            # TODO: Find a better way to represent suit index instead of hard-coding it
-            suit_index = suit - 1
-            self.card_distribution[suit_index, :, current_player.index] = -1
-            self.extrapolate(suit_index)
+
+
 
     def extrapolate(self, suit_index):
         # additional extrapolation (over the suit)

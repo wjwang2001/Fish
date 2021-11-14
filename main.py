@@ -26,6 +26,7 @@ def test():
 
 
 if __name__ == '__main__':
+    test()
     # initialize players
     player1 = Player("Edgar")
     player2 = Player("William")
@@ -36,7 +37,7 @@ if __name__ == '__main__':
     players = [player1, player2, player3, player4]
 
     game = Fish(players)
-    game.play()
+    #game.play()
 
 
 
