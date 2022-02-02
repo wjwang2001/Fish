@@ -1,5 +1,6 @@
 import random
 import numpy as np
+from information import Information
 
 
 class Player:
@@ -17,19 +18,14 @@ class Player:
         # hand
         self.hand = -np.ones((self.num_hs, self.num_cards_per_hs))
         self.num_cards = 0
-
         #self.index = None
-        # computer only values
-        self.information = None
-        self.ask_queue = []
-        self.declare_queue = []
 
     def initialize_hand(self, hand):
         for hs, value in hand:
             self.hand[hs, value] = 1
         self.num_cards = (self.hand == 1).sum()
 
-    # unused
+    # unused except for in print debugging and user card prompting
     def get_hand(self):
         return [tuple(card) for card in np.argwhere(self.hand == 1).tolist()]
 
@@ -100,57 +96,54 @@ class Player:
 class Computer(Player):
     def __init__(self, name):
         super().__init__(name)
+        self.players = [self] #teammates and opponents added in initialize_hand
         self.information = None
         self.ask_queue = []
         self.declare_queue = []
 
-        # TODO: make has_suit & has_card more efficient by implementing binary search
-        def has_suit(self, suit_to_check):
-            for card in self.hand:
-                if card.suit == suit_to_check:
-                    return True
-            return False
+    def initialize_hand(self, hand):
+        # same as human player initialize function
+        for hs, value in hand:
+            self.hand[hs, value] = 1
+        self.num_cards = (self.hand == 1).sum()
+        # now that hand is dealt, initialize information
+        self.players.extend(self.teammates)
+        self.players.extend(self.opponents)
+        self.information = Information(self.num_hs, self.num_cards_per_hs, self.players)
 
-        def has_card(self, card_to_check):
-            for card in self.hand:
-                if card == card_to_check:
-                    return True
-            return False
+    def update(self, current_player, card, next_player, got_card):
+        # same as human player update function
+        if got_card:
+            if self == current_player:
+                self.add_card(card)
+            if self == next_player:
+                self.remove_card(card)
+        # computer update TODO: account in logic for if current player or next_player is same as self.player
+        hs = card[0]
+        value = card[1]
+        current_player_index = self.information.players.index(current_player)
+        askee_index = self.information.players.index(next_player)
+        # if we didn't know the player had a card in the suit, update player status to 1 for that suit
+        #if 1 not in self.information.player_status[card[0], current_player_index]:
+        self.information.player_status[card[0], current_player_index] = 1
+        if got_card:
+            # if we knew the player had a card in the suit, which card could have been the one taken,
+            # update player status to 0 for that suit
+            #if self.information[opponent.name][card] == 0:
+            self.information.player_status[hs, askee_index] = 0
 
-        """ 
-        Given a card, returns a boolean indicating whether the player can legally ask for that card.
-        """
-
-        def is_valid_ask(self, card, can_be_own_card=False):
-            # cannot ask anyone for a card if you don't have a card of the same suit
-            if not self.has_suit(card.suit):
-                return False
-            # cannot ask for a card you have (if setting is disabled)
-            if not can_be_own_card and self.has_card(card):
-                return False
-            return True
-
-    """ 
-        Returns a boolean indicating whether a player cannot legally ask for any card
-        Note: this method is currently not being used, but might be useful for implementing human players
-        """
-
-    def no_asks_left(self, cards_per_suit):
-        # cannot ask if hand has no cards
-        if len(self.hand) == 0:
-            return True
-        self.hand.sort()
-        # if hand is not all full suits, can ask for some card
-        if len(self.hand) % cards_per_suit != 0:
-            return False
-        # since sorted, check if each consecutive group is a full suit
-        for i in range(0, len(self.hand), cards_per_suit):
-            if self.hand[i].suit != self.hand[i + cards_per_suit - 1].suit:
-                return False
-        return True
+            # distribution: indicate we know where the card is and who has it
+            self.information.card_distribution[hs, value, :] = -1
+            self.information.card_distribution[hs, value, current_player_index] = 1
+        else:
+            # distribution: indicate neither player has the card
+            self.information.card_distribution[hs, value, current_player_index] = -1
+            self.information.card_distribution[hs, value, askee_index] = -1
+        self.information.extrapolate(card)
 
     """
         returns a valid card + opponent to ask (generated at random)
+        working on implementing logical deductions
     """
     def get_next(self):  # random
         # TODO: implement declaring on other's (notably teammates') turns
@@ -161,14 +154,17 @@ class Computer(Player):
             suit_to_declare = declarable.pop()
             self.team.declare(self, game, suit_to_declare)
         # we do this first to skip game.information.check if possible
+        """
+        #information
+        #"""
         while len(self.ask_queue) > 0:
             next_ask = self.ask_queue.pop()
             return next_ask[0], next_ask[1]
-        if self.information.check_for_clear(game, self):
+        if self.information.check_for_clear():
             # we added asks to the queue
             next_ask = self.ask_queue.pop()
             return next_ask[0], next_ask[1]
-        """
+        #"""
 
         # if you run out of cards, pick a teammate to start
         if len(self.get_hand()) == 0:

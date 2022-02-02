@@ -22,8 +22,8 @@ class Fish:
         self.num_players = len(self.players)
         # setup the game
         self.initialize_game_info()
-        self.deal_cards()
         self.initialize_team_info()
+        self.deal_cards()
         self.current_player = self.players[random.randint(0, self.num_players - 1)]
 
     def initialize_game_info(self):
@@ -61,15 +61,14 @@ class Fish:
         for player in self.players:
             print(player.get_hand())
 
-    # updates info for each player
+    # updates info +hands for each player
     def update_info(self, current_player, card, next_player, got_card):
         for player in self.players:
-            # make sure to only do this for computerized players
             player.update(current_player, card, next_player, got_card)
 
     def play(self):
         # TODO: implement the win condition (i.e. while no team has won 5+ half suits):
-        while self.total_turns < 1000:
+        while self.total_turns < 100:
             card, next_player = self.current_player.get_next()
             # the player is out of cards: switch to a teammate if possible
             if card is None:
