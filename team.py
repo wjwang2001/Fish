@@ -4,18 +4,17 @@ class Team:
         self.players = []
         self.points = 0
 
-    def add_players(self, players):
-        for player in players:
-            self.players.append(player)
-            player.team = self
+    def add_player(self, player):
+        self.players.append(player)
 
     def display(self):
         print(self.name, end=': ')
         # assume # of players > 0
         for i in range(len(self.players) - 1):
-            print(self.players[i].name, end=',')
+            print(self.players[i].name, end=', ')
         print(self.players[-1].name, "have", self.points, "points.")
 
+    # future work: declare
     def declare(self, current_player, game, suit_declared):
         print(current_player.name, "declares", suit_declared)
         # declare (need to check for validity first)
